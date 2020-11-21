@@ -1,2 +1,2 @@
 # test0
-course
+course0
